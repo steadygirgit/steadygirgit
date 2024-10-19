@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing web and data solution products.
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Machine learning Projects
-- 📫 reach me : satyamkiemail@gmail.com
+- 📫 reach me : lekh@airmail.cc
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Life is joyful but it is real when you make it happen.
 
